@@ -1,0 +1,1 @@
+print("ngano man")
